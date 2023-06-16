@@ -1,8 +1,8 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
+Nama : Raden Muhammad Banendra Bagaskara
+NIU : 460560 
+Sesi : Siang  
 Secret String : [SECRET_STRING]
 
 ## Checklist Responsi
